@@ -22,8 +22,8 @@ const App = () => {
           <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-8 max-w-md w-full">
             <div className="flex flex-col items-center text-center">
               <img
-                className="w-24 h-24 rounded-full border-4 border-gray-300 dark:border-gray-600"
-                src="https://via.placeholder.com/150"
+                className="w-20 h-24 rounded-full border-4 border-gray-300 dark:border-gray-600"
+                src="https://aadityadav.netlify.app/static/media/HEROIMAGE.6612d6650b0137e65dfa.png"
                 alt="Profile"
               />
               <h2 className="mt-4 text-2xl font-semibold">John Doe</h2>
