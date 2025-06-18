@@ -26,7 +26,7 @@ const App = () => {
                 src="https://aadityadav.netlify.app/static/media/HEROIMAGE.6612d6650b0137e65dfa.png"
                 alt="Profile"
               />
-              <h2 className="mt-4 text-2xl font-semibold">John Doe</h2>
+              <h2 className="mt-4 text-2xl font-semibold">Aadit Yadav </h2>
               <p className="text-gray-500 dark:text-gray-400 text-sm">
                 Software Engineer @ Tech Company
               </p>
@@ -35,11 +35,11 @@ const App = () => {
             <div className="mt-6 space-y-4">
               <div className="flex items-center justify-between">
                 <span className="text-gray-600 dark:text-gray-300 font-medium">Email:</span>
-                <span>johndoe@example.com</span>
+                <span>aadityadav.dev@gmail.com</span>
               </div>
               <div className="flex items-center justify-between">
                 <span className="text-gray-600 dark:text-gray-300 font-medium">Location:</span>
-                <span>San Francisco, CA</span>
+                <span>New baneshwor , Min Bhawan</span>
               </div>
               <div className="flex items-center justify-between">
                 <span className="text-gray-600 dark:text-gray-300 font-medium">Member Since:</span>
